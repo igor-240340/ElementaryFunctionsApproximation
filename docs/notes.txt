@@ -1,0 +1,6 @@
+- Lookup tables.
+- Taylor series.
+- Chebyshev polynomials.
+- Piecewise approximations.
+- CORDIC Algorithm.
+- Rational approximations.
